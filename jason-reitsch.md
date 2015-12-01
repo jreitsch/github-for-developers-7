@@ -5,3 +5,4 @@
 - **Favorite Food:** Octopus
 - **Favorite Color:** Orange
 - **Hobby:** Bodybuilding
+- **Current City:** Shelton, Wa
